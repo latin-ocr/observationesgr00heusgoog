@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./observationesgr00heusgoog_0008.png"; bbox 0 0 2912 5168; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 360 1767 928 2154">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 360 1767 928 2154">
+     <span class='ocr_line' id='line_1_1' title="bbox 360 1767 928 1865; baseline 0 -21"><span class='ocrx_word' id='word_1_1' title='bbox 360 1767 575 1845; x_wconf 70' lang='lat' dir='ltr'>GEoRfflo</span> <span class='ocrx_word' id='word_1_2' title='bbox 605 1799 613 1816; x_wconf 91' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 641 1768 928 1865; x_wconf 73' lang='lat' dir='ltr'>HEUSSNERQ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 411 1883 878 2002; baseline 0.009 -4"><span class='ocrx_word' id='word_1_4' title='bbox 411 1925 555 1999; x_wconf 78' lang='lat' dir='ltr'><strong>PATRI</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 583 1953 591 1970; x_wconf 92' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 620 1883 878 2002; x_wconf 72' lang='lat' dir='ltr'>cAfflsslMo</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 421 2077 867 2154; baseline 0.007 -3"><span class='ocrx_word' id='word_1_7' title='bbox 421 2077 640 2153; x_wconf 75' lang='lat' dir='ltr'>P1ETAT1s</span> <span class='ocrx_word' id='word_1_8' title='bbox 670 2109 678 2124; x_wconf 93' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 707 2079 867 2154; x_wconf 76' lang='lat' dir='ltr'><strong>cAUSA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 387 2237 892 2464">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 387 2237 892 2464">
+     <span class='ocr_line' id='line_1_4' title="bbox 530 2237 764 2308; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 530 2237 562 2308; x_wconf 94' lang='lat' dir='ltr'>D</span> <span class='ocrx_word' id='word_1_11' title='bbox 593 2263 602 2280; x_wconf 93' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 632 2237 664 2308; x_wconf 91' lang='lat' dir='ltr'><strong>D</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 693 2263 702 2280; x_wconf 92' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 731 2237 764 2308; x_wconf 88' lang='lat' dir='ltr'>D</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 387 2388 892 2464; baseline -0.002 -1"><span class='ocrx_word' id='word_1_15' title='bbox 387 2391 414 2463; x_wconf 90' lang='lat' dir='ltr'>F</span> <span class='ocrx_word' id='word_1_16' title='bbox 417 2389 671 2464; x_wconf 83' lang='lat' dir='ltr'>RIDERICUS</span> <span class='ocrx_word' id='word_1_17' title='bbox 703 2417 709 2434; x_wconf 93' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 740 2388 892 2464; x_wconf 82' lang='lat' dir='ltr'>FILIUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1460 5168">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1460 5168">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1460 5168; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 1460 5168; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
